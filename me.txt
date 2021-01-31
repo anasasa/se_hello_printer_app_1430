@@ -1,0 +1,1 @@
+Zmodyfikowałem kod aplikacji dodając dodatkowe formatowanie
